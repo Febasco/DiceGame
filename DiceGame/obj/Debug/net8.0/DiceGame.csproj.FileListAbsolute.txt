@@ -1,0 +1,14 @@
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.exe
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.deps.json
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.runtimeconfig.json
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.dll
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\bin\Debug\net8.0\DiceGame.pdb
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.AssemblyInfo.cs
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.dll
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\refint\DiceGame.dll
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.pdb
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
+C:\Users\ilja.purgin\source\repos\DiceGame\DiceGame\obj\Debug\net8.0\ref\DiceGame.dll
